@@ -9,8 +9,8 @@ const Inicio = () => {
 
         <p>
           Este esta pagina fue hecha con
-          <strong> Html, Css, Javascript, Typescript Y React - Vite</strong>
-          con la finalidad de fortalecer los fundamentos de
+          <strong> Html, Css, Javascript, Typescript Y React - Vite </strong>
+           con la finalidad de fortalecer los fundamentos de
           <strong> React - Vite</strong> basico.
         </p>
         <br />
