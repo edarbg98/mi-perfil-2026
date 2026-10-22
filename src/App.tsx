@@ -14,6 +14,7 @@ function App() {
         <Link to={"/about"}>Acerca de mi</Link>
       </nav>
       <Routes>
+        <Route path="/" element={<Inicio/>}/>
         <Route path="/login" element={<Login />} />
 
         <Route element={<Seguridad permiso={true} />}>
